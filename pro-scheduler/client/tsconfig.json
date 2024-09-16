@@ -12,6 +12,7 @@
     }
   ],
   "compilerOptions": {
+    "types": ["vuetify"],
     "module": "NodeNext"
   }
 }
